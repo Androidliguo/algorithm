@@ -71,4 +71,9 @@ public class OutPutOneToMaxNDigits {
         System.out.println();
     }
     
+    
+    public void print(){
+    	
+    }
+    
 }
